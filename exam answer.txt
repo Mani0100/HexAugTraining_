@@ -1,0 +1,15 @@
+1. 538 511 5+38 
+2. 11
+3. 59
+4. 65
+5. compile time error
+6. false
+7. True False False
+8. compile time error
+9. Extending thread class
+10. 
+11. <%jsp:param>
+12. export
+13.id, class
+14.jsp:useBean
+15. all of the above

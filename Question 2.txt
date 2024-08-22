@@ -1,0 +1,25 @@
+1. print hi 7 times
+2. Hi
+3. Hi
+4. Hello 3 Test 4 Demo 5 Default Message
+5. Long 12
+6. int=101 Integer=101
+7. 3 2
+8. is a
+9. false
+10. package.class@hashcode
+11. Bye
+12. 15 56
+13. compile time error
+14. Its Invalid Class Object
+15. hi hellow bye
+16. Bye
+17.hi
+18. hi
+19. iv
+20. iv
+21. 13
+22. interfaceName.super.method()
+23. Compile Time Error as use of null object
+24. interface IOne extends ITwo { }
+25. C1 con C2 con Constructor C1 Constructor C2
